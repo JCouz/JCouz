@@ -2,9 +2,9 @@
 
 
 
-<img align="center"  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JCouz&&theme=shades-of-purple&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JCouz&theme=shades-of-purple&show_icons=true" "(https://github-readme-stats.vercel.app/api/top-langs/?username=JCouz&theme=shades-of-purple)"  "(https://github-readme-stats.vercel.app/api/pin/?username=JCouz&theme=shades-of-purple)" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCouz&theme=shades-of-purple) />
+
 
 
 
