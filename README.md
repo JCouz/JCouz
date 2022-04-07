@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JCouz&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JCouz&&theme=shades-of-purple&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCouz&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCouz&theme=shades-of-purple)
 
 
 
