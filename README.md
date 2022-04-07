@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Header](https://raw.githubusercontent.com/JCouz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JCouz&&theme=shades-of-purple&show_icons=true)
 
