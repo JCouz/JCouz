@@ -20,7 +20,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/JC-Skol
+[1]: https://twitter.com/JC_Skol
 [2]: https://www.linkedin.com/in/jcouzdev/
 <!--
 **JCouz/JCouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
