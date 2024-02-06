@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I'm a graduate from [Northcoders](https://northcoders.com/), 1 years expierence as a Junior Frontend Developer and now looking for my next role.
+I'm a graduate from [Northcoders](https://northcoders.com/), working at [Rainy City Agency](https://northcoders.com/](https://www.rainycityagency.com/)).
 
 
 
