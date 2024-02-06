@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I'm a graduate from [Northcoders](https://northcoders.com/), working at [Rainy City Agency](https://www.rainycityagency.com/)).
+I'm a graduate from [Northcoders](https://northcoders.com/), working at [Rainy City Agency](https://www.rainycityagency.com/).
 
 
 
